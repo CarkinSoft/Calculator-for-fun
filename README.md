@@ -6,7 +6,7 @@
 - I am making this repo public so others may tinker with it or contribute to the project
 
 Some Libraries I might use:
-- Pyside
+- Pyside6
 - PyQT
 - Flask
 - QTpy
